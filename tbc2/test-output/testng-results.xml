@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42307" started-at="2018-09-19T05:24:35Z" finished-at="2018-09-19T05:25:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42307" started-at="2018-09-19T05:24:35Z" finished-at="2018-09-19T05:25:18Z">
+      <class name="com.acc.selenium_day1.cookie">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.acc.selenium_day1.cookie@a38d7a3]" name="openbrowser" is-config="true" duration-ms="14482" started-at="2018-09-19T05:24:35Z" finished-at="2018-09-19T05:24:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="testcase10()[pri:0, instance:com.acc.selenium_day1.cookie@a38d7a3]" name="testcase10" duration-ms="27784" started-at="2018-09-19T05:24:50Z" finished-at="2018-09-19T05:25:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase10 -->
+      </class> <!-- com.acc.selenium_day1.cookie -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
